@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0; 
+    background-color: #ffffff;
+}
+
+.altura1 {
+    height: 70px;
+    background-color: #b9375e;
+}
+
+.altura2 {
+    height: 900px;
+    background-color: #ffc2d4;
+}
+
+.altura3 {
+    height: 900px;
+    background-color: #ffe0e9;
+}
+
+.altura4 {
+    height: 70px;
+    background-color: #ff9ebb;
+}
+
+.altura5 {
+    height: 250px;
+    background-color: #ffb5a7;
+}
+
+.altura6 {
+    height: 250px;
+    background-color: #fcd5ce;
+}
+
+.altura7 {
+    height: 250px;
+    background-color: #f8edeb;
+}
+
+.altura8 {
+    height: 250px;
+    background-color: #f9dcc4;
+}
+
+.altura9 {
+    height: 250px;
+    background-color: #fec89a;
+}
+
+.altura10 {
+    height: 250px;
+    background-color: #fed3ae;
+}
